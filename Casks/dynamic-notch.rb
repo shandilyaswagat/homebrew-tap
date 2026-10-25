@@ -1,6 +1,6 @@
 cask "dynamic-notch" do
-  version "1.3.1"
-  sha256 "7bdbebefe9705637bdbd7a761a20c380f60f003ac0462e34194e8fa81d869c4c"
+  version "1.3.2"
+  sha256 "9d87e56bfd22f38cb792b551010c1812b355a06a9ba0e86ff98520feadd90888"
 
   url "https://github.com/shandilyaswagat/dynamic_notch/releases/download/v#{version}/DynamicNotch.dmg"
   name "Dynamic Notch"
