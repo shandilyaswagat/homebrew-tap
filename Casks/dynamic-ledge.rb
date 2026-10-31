@@ -1,6 +1,6 @@
 cask "dynamic-ledge" do
-  version "1.4.1"
-  sha256 "2f27b678bb240b166d37cb2cd8eafdef0a0a37651b29853eb3665563ed8f2753"
+  version "1.4.2"
+  sha256 "337a9efba916c2c6f354f8cdfbafeae38a195ffeb765dadcc90df3ac7a2a515c"
 
   # The download keeps its first name so apps from before the rename can still update.
   url "https://github.com/shandilyaswagat/dynamic_ledge/releases/download/v#{version}/DynamicNotch.dmg"
